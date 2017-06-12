@@ -1,21 +1,22 @@
-# Twitter Sentiment Collector
+# Coletor de Sentimentos do Twitter
 
 A node.js script for mining and viewing twitter sentiment on your local machine. 
 
 [Video demo](https://www.youtube.com/watch?v=VsPk9lWuktg)
+[Fonte](Fonte: https://github.com/kirkins/Twitter-Sentiment-Collector)
 
-## Configuration
-1. Go to apps.twitter.com and create an application.
-2. Record your consumer key, consumer secret, access token, and access secret.
-3. open '/config/config.js' and update values with the credentials from step 2.
+## Configuração
+1. Vá ao apps.twitter.com e crie uma aplicação em sua conta
+2. Resgate os seguintes dados: consumer key, consumer secret, access token, e access secret.
+3. Abra '/config/config.js' e atualize os valores com as credenciais do passo 2.
 
-## usage
-    git clone https://github.com/kirkins/Twiiter-Sentiment-Collector.git
-    cd Twitter-Sentiment-Collector
+## Como usar
+    git clone https://github.com/claranobre/AnaliseEmocional
+    cd AnaliseEmocional
     npm install
-    node mine.js "search term"
+    node mine.js "procurar termo"
     
-open another tab (ctrl+shift+t)
+abra outra tab (ctrl+shift+t)
     
     node graph.js
 
