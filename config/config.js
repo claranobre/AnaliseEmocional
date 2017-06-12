@@ -1,0 +1,9 @@
+const config = {};
+config.TWITTER_CONSUMER_KEY = 'Euxu33iIjTBpH7fNp7Nr0uOy9';
+config.TWITTER_CONSUMER_SECRET = 'XPlgHu1XNPwnkNu70c2ZFK6ZnU3qOck2rq2V9GeJBITZQXhQbZ';
+config.TWITTER_ACCESS_TOKEN = '241304988-6InJPcxqu6xowYlYSmxJOhibL3TGAwysyczIvB5S';
+config.TWITTER_ACCESS_TOKEN_SECRET = 'fV2bGx6Eqmfaa7IYDr3W0KR3dRjFcLyu6KGPPUBLPEeUp';
+config.TWITTER_SEARCH_START_DATE = '2017-06-01';
+config.TWEET_FREQUENCY = 1; // minutes
+
+module.exports = config;
