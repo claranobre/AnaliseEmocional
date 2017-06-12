@@ -2,8 +2,8 @@
 
 A node.js script para captar e ver sentimentos no twitter em uma máquina local.
 
-[Video demo](https://www.youtube.com/watch?v=VsPk9lWuktg)
-[Fonte](https://github.com/kirkins/Twitter-Sentiment-Collector)
+* [Video demo](https://www.youtube.com/watch?v=VsPk9lWuktg)
+* [Fonte](https://github.com/kirkins/Twitter-Sentiment-Collector)
 
 ## Configuração
 1. Vá ao apps.twitter.com e crie uma aplicação em sua conta
@@ -20,7 +20,7 @@ abra outra tab (ctrl+shift+t)
     
     node graph.js
 
-# Verificando no navegador
+## Verificando no navegador
 ``` 
 localhost:3000
 ```
