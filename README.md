@@ -47,12 +47,12 @@ Utilizar nodes foi intuitivo, a ferramenta e sua interface para aplicações web
 
 ## Imagens
 
-###[1] https://slack-files.com/T42KUTGPL-F5S0DR7S4-d0ee49f36a
-###[2] https://slack-files.com/T42KUTGPL-F5TEVF03H-f7034a372d 
-###[3] https://slack-files.com/T42KUTGPL-F5S3BGVTK-b57927a994
-###	 https://slack-files.com/T42KUTGPL-F5TEA5HQE-11e0479365
-###  https://slack-files.com/T42KUTGPL-F5TEUKQNB-b1b4e62009
-###[4] https://slack-files.com/T42KUTGPL-F5SMK66NQ-2f541b1e50	
+> [1] https://slack-files.com/T42KUTGPL-F5S0DR7S4-d0ee49f36a
+> [2] https://slack-files.com/T42KUTGPL-F5TEVF03H-f7034a372d 
+> [3] https://slack-files.com/T42KUTGPL-F5S3BGVTK-b57927a994
+> 	  https://slack-files.com/T42KUTGPL-F5TEA5HQE-11e0479365
+>     https://slack-files.com/T42KUTGPL-F5TEUKQNB-b1b4e62009
+> [4] https://slack-files.com/T42KUTGPL-F5SMK66NQ-2f541b1e50	
 	
 
 ## Explicando a organização dos diretórios
